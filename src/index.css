@@ -1,0 +1,10 @@
+@import 'tailwindcss' layer(base);
+
+
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+::selection{
+  color: rgb(90, 70, 46);
+}
